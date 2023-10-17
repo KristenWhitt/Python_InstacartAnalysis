@@ -1,5 +1,6 @@
 # Python_InstacartAnalysis
-Python code from market analysis of Instacart Data. Code includes descriptive analysis, quality and consistency checks, data wrangling, column derivations, and visualizations to  understand objectives. 
+Python code from market analysis of Instacart Data. Code includes descriptive analysis, quality and consistency checks, data wrangling, column derivations, and visualizations to  understand objectives.
+### To view a brief summary of the project including tools and skills demonstrated select Instacart_Market_Analysis_Summary.
 
 ## Objectives:
 ### Perform exploratory data analysis on Instacart data to suggest strategies for further market segmentation. Define customer base and spending habits.
